@@ -1,0 +1,28 @@
+{
+  "Summary": [
+    "I’m a passionate front-end developer 7 years of experience.",
+    "Focus on development for web, desktop, mobile and devices.",
+    "I have worked with different programming languages, javascript libraries, and frameworks."
+  ],
+  "Technical Skills": [
+    "- Programming languages & Programming tools/libraries: AngularJs 1.x, AngularJs 2+, ReactJs, React-Native, Redux, HTML5, CSS3, SCSS, LESS, Webpack, Grunt, Gulp, ES5, ES6, ES7, GraphQL, Google Extension",
+    "- Databases: MongoDB, MySQL",
+    "- Web/Application servers: Golang, Nodejs, Python",
+    "- Analysis & Design Tools: Sketch, Adobe Experience Design CC",
+    "- IDEs & Programming tools: Visual Studio Code",
+    "- Unit Testing: Mocha, Jest, Ava"
+  ],
+  "Technical Specialization": [
+    "Stack Frontend: 7 years of experience (vanilla Javascript, jQuery, Angular, ReactJs)",
+    "Stack Backend: 3 years of experience (NodeJs)",
+    "Stack Mobile: React Native From v0.1"
+  ],
+  "Projects": ["Arval For Me ", "Volkswagen FR", "Real Estate World", "World Wide Fund for Nature", "LGA", "Nike", "..."],
+  "Contact": [
+    "- Address: Ho Chi Minh city, Vietnam",
+    "- Skype: tai.teambrand",
+    "- Email: info@truthtai.com",
+    "- Linkedin: https://www.linkedin.com/in/tai-truong-242b8b121/",
+    "- Node: npx truthtai"
+  ]
+}
