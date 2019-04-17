@@ -16,7 +16,9 @@ var resumePrompts = {
 };
 
 function main() {
-  console.log("Hello, My name is Tai and welcome to my resume");
+  console.log(response("--------------------------------------"))
+  console.log(response("Hello, My name is Tai TRUONG THANH 😊 \nI'm a Front-end Technical Lead at Ekino Vietnam \nWelcome to my resume 🎉"));
+  console.log(response("--------------------------------------"))
   resumeHandler();
 }
 
